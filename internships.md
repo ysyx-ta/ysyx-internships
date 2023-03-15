@@ -1,6 +1,6 @@
 # 实习生岗位
 
-如果对任何实习感兴趣, 请从此处 [提交申请]().
+如果对任何实习感兴趣, 请阅读 [如何申请实习](./how-to-submit-application.md) 从此处 [提交申请](https://github.com/Zweisamkeiten/ysyx-internships/issues/new?assignees=&labels=request&template=internships.yaml).
 
 ## 一生一芯 项目组的实习生岗位
 
