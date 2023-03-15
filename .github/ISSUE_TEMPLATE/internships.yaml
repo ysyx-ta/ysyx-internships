@@ -1,0 +1,55 @@
+name: 实习生岗位申请
+description: 请按要求完成信息填写
+labels: [request]
+
+body:
+  - type: input
+    id: job-id
+    attributes:
+      label: 岗位ID
+      description: "填写投递岗位ID"
+      placeholder: |
+        number
+    validations:
+      required: true
+  - type: textarea
+    id: self-description
+    attributes:
+      label: 对岗位的认知
+      description: "结合自身特点, 已有的知识和能力谈谈对该岗位的认识"
+      placeholder: |
+        1. 自身优势
+        2. 对工作内容的认识理解
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: 姓名
+      description: "请填入姓名"
+      placeholder: 张三
+    validations:
+      required: true
+  - type: input
+    id: online_or_offline
+    attributes:
+      label: 线上/线下
+      description: "请填入实习意向"
+      placeholder: |
+        线上/线下
+    validations:
+      required: true
+  - type: input
+    id: begin_time
+    attributes:
+      label: 实习起始时间
+      description: "实习起始时间, 可以填写具体日期或模糊日期"
+    validations:
+      required: true
+  - type: input
+    id: last_time
+    attributes:
+      label: 实习时长
+      description: "实习时长, 可以填写预期的最短时间"
+    validations:
+      required: true
