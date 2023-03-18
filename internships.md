@@ -50,7 +50,7 @@
 ### 3. 开源模拟器实习生
 
 工作内容: 
-1. 为 [Nutshell处理器](https://github.com/OSCPU/NutShell) 开发时钟周期精确处理器模型，撰写开发文档，与果壳后续维护，编写和重构一生一芯TLB、MMU、BPU等相关部件讲义；
+1. 为 [Nutshell处理器](https://github.com/OSCPU/NutShell) 开发时钟周期精确处理器模型，撰写开发文档，参与果壳后续维护，编写和重构一生一芯TLB、MMU、BPU等相关部件讲义；
 2. 为 [Boom处理器](https://github.com/chipsalliance/rocket-chip) 开发时钟周期精确处理器模型，撰写开发文档，编写一生一芯乱序处理器讲义；
 3. 为 玄铁系列处理器开发时钟周期精确处理器模型，将工业级代码设计思想写入一生一芯讲义；
 
