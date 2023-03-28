@@ -4,7 +4,7 @@
 
 在我们联系您之前, 您可以任意[提交申请](https://github.com/ysyx-ta/ysyx-internships/issues/new?assignees=&labels=request&template=internships.yaml).
 
-* 打开一个 issue, issue 标题格式 '岗位-github用户名' 按要求填写信息. [申请链接](https://github.com/Zweisamkeiten/ysyx-internships/issues/new?assignees=&labels=request&template=internships.yaml)
+* 打开一个 issue, issue 标题格式 '岗位-github用户名' 按要求填写信息. [申请链接](https://github.com/ysyx-ta/ysyx-internships/issues/new?assignees=&labels=request&template=internships.yaml)
 * 您可以向多个岗位各提交一份 issue, 但请不要同时对一个岗位打开多个 issue.
 * 向邮箱xx中投递您的简历.
 
