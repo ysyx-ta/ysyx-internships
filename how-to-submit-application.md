@@ -6,7 +6,7 @@
 
 * 打开一个 issue, issue 标题格式 '岗位-github用户名' 按要求填写信息. [申请链接](https://github.com/ysyx-ta/ysyx-internships/issues/new?assignees=&labels=request&template=internships.yaml)
 * 您可以向多个岗位各提交一份 issue, 但请不要同时对一个岗位打开多个 issue.
-* 向邮箱xx中投递您的简历.
+* 向邮箱opensource-talents@bosc.ac.cn中投递您的简历.
 
 邮件标题请注明： **岗位编号 - 姓名 - 手机号码 - 学校**
 
